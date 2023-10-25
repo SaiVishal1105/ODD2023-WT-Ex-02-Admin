@@ -13,7 +13,7 @@ Create a Django website with five users. Two users are to be staff users (includ
 ### Step 4: Give command - "python manage.py migrate" to get the file directories.
 ### Step 5: Give command - "python manage.py createsuperuser" to create admin credentials.
 ### Step 6: Give command - "python manage.py runserver 8000" to sign in into django server/.
-## Step 7: Enter a given credentials to sign in into django server.
+### Step 7: Enter a given credentials to sign in into django server.
 ### Step 8: Add some users according to the user.
 
 # OUTPUT
