@@ -20,3 +20,6 @@ Create a Django website with five users. Two users are to be staff users (includ
 
 ![Alt text](<Screenshot 2023-10-25 104812.png>)
 
+# RESULT
+
+The output is verified successfully
